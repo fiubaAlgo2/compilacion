@@ -4,6 +4,8 @@
 #include "b.hpp"
 
 int main() {
-    std::cout << number << std::endl;
+    a();
+    b();
+    sayHello();
     return 0;
 }
