@@ -1,11 +1,8 @@
 #include <iostream>
 
-#include "a.hpp"
-#include "b.hpp"
+#include "c.hpp"
 
 int main() {
-    a();
-    b();
-    sayHello();
+    std::cout << a << std::endl;
     return 0;
 }

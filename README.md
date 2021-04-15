@@ -9,5 +9,8 @@ Para clonar el repo en tu computadora:
 
 - **1-redefinition**
 
-	Describe el error de compilación en linkeditor que se obtiene al no usar #ifndef,#define,#endif
+	Describe el error de compilación en linkeditor que se obtiene al no usar #ifndef,#define,#endif cuando se declara una variable
+
+- **2-funciontRedefinition**
+	Decribe el error de compilacion en linkeditor que se obtiene cuando se realiza una definición de función dentro de un .hpp
 
