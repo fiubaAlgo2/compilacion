@@ -14,3 +14,5 @@ Para clonar el repo en tu computadora:
 - **2-funciontRedefinition**
 	Decribe el error de compilacion en linkeditor que se obtiene cuando se realiza una definición de función dentro de un .hpp
 
+- **3-extern**
+	Describes the bad use of extern and the problem with not including the .hpp files 
